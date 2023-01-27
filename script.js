@@ -11,4 +11,4 @@
 
 //console.log (addTwoNumbers)
 console.log ("Hello Amp Fans!")
-//alert("Hello Amp Fans!")
+alert("Hello Amp Fans!")
