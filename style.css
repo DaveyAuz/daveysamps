@@ -1,7 +1,7 @@
 html, body {
     height: 100%;
     width: 100%;
-    background-color: #ff0d00e7;
+    background-color: #88ff00;
     font-family: sans-serif;
   
   }
@@ -28,7 +28,7 @@ html, body {
   
   figcaption{
     color: rgba(130, 255, 47, 0.943);
-    text-align: center;
+    text-align: Left;
   }
   .cabinets {
     display: flex;

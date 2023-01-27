@@ -1,5 +1,5 @@
-<script>
-// function adTwoNumbers(){
+//This is how I comment bruh
+    function adTwoNumbers(){
     let number1 = 10
     let number2 = 20
     console.log(number1 + number2);
@@ -9,5 +9,6 @@
     
     console.log()
 
-console.log (addTwoNumbers)
-</script>
+//console.log (addTwoNumbers)
+console.log ("Hello Amp Fans!")
+//alert("Hello Amp Fans!")
