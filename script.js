@@ -1,14 +1,15 @@
-//This is how I comment bruh
-    function adTwoNumbers(){
-    let number1 = 10
-    let number2 = 20
-    console.log(number1 + number2);
-    return number1 + number2;
-    let sum = number1 + number2
-    }
-    
-    console.log()
+// // function functionName(parameters){code you want executed}
+// This is how I comment bruh
+// function functionName(){
+//   // code goes here    
+// } 
+// let theName = '';
 
-//console.log (addTwoNumbers)
-console.log ("Hello Amp Fans!")
-alert("Hello Amp Fans!")
+Function greetUser(){
+     = prompt(THIS IS ABOUT TO GET LOUD... DO YOU HAVE PROPER HEARING PROTECTION??!!)
+    console.log(theName); 
+    document.write("Well, its too late to turn back now..."); 
+}
+//    theName
+//alert()
+
