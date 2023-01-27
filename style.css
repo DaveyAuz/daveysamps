@@ -1,16 +1,20 @@
 html, body {
     height: 100%;
     width: 100%;
-    background-color: #88ff00;
+    background-color: #f12303;
     font-family: sans-serif;
   
   }
  
   header {
-    background-color: rgb(57, 0, 0);
+    background-color: rgb(0, 0, 0);
     
   }
   
+  footer {
+    background-color: rgb(0, 0, 0);
+    
+  }
   main {
     
   }
@@ -27,7 +31,7 @@ html, body {
   }
   
   figcaption{
-    color: rgba(130, 255, 47, 0.943);
+    color: rgb(72, 255, 0);
     text-align: Left;
   }
   .cabinets {
@@ -48,7 +52,7 @@ html, body {
     font-style: italic;
   }
   
-  .contact-nav {
+  .footer-nav {
     font-color: red;
   }
   
