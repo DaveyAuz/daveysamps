@@ -1,21 +1,26 @@
 // First Dynamic Element   
-let user = prompt("Please Enter Your Name", " ")
-
+function getName(){
+let user = prompt("Please Enter Your Name");
+return user
+}
 // Second Dynamic
-
-document.write("Welcome, " + user + "!")
+function welcome(name){
+    document.write("Welcome, " + name + "!");
+}
 
 // Third Dynamic 
-
-ans = confirm("THIS IS ABOUT TO GET LOUD... DO YOU HAVE PROPER HEARING PROTECTION??!!");
+function confirmLoud(){
+let ans = confirm("THIS IS ABOUT TO GET LOUD... DO YOU HAVE PROPER HEARING PROTECTION??!!");
     if (ans == true) {
-        alert("Most Excellent!")
+        alert("Most Excellent!");
     }else{
-        alert("Bogus!")    
+        alert("Bogus!");    
     }
+}
 
-
-
+let userName = getName()
+welcome(userName)
+confirmLoud()
 
 
 
